@@ -1,4 +1,3 @@
-routes/contact.js
 const express = require('express');
 const router = express.Router();
 const { submitContact, signup, getContacts } = require('../controllers/contactController');
