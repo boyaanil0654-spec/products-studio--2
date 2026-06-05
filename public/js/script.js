@@ -1,4 +1,3 @@
-public/js/script.js
 (function() {
     'use strict';
     const API_BASE = '/api';
